@@ -69,7 +69,7 @@ J(1) J(41) J(41) J(42) J(42) J(42) J(43) J(43) J(65) J(65) J(66) J(66) J(66) J(6
 
 We are to find the first element $x$ in $A$ where $J(x)$ returns `true`, i.e., the leftmost `T`. The answer is the first $65$, i.e. the $9^{\text{th}}$ element (index starts from 1).
 
-Of course, you can scan through all elements and check their $J(x)$. But this is too slow ($O(N)$). We can utilize the monotonicity of $A$ to solve the problem in $O(\log N)$.
+Of course, you can scan through all elements and check their $J(x)$. But this is too slow ( $O(N)$ ). We can utilize the monotonicity of $A$ to solve the problem in $O(\log N)$.
 
 ## Algorithm
 
