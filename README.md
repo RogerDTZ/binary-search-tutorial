@@ -53,6 +53,7 @@ Please find the index of the first element no less than $50$.
 Components:
 1. Monotonic sequence: $A$
 2. Judge function: type 2
+
 $$
 J(x) = 
 \begin{cases}
